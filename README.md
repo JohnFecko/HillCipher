@@ -1,3 +1,3 @@
 # HillCipher
 
-Implementation of a hill ciper encryption algorithm.
+Implementation of a hill cipher encryption algorithm.
